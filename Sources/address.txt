@@ -1,0 +1,5 @@
+https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
+https://datagy.io/python-support-vector-machines/
+
+
+https://medium.com/analytics-vidhya/image-classification-using-machine-learning-support-vector-machine-svm-dc7a0ec92e01

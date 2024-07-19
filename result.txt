@@ -1,0 +1,152 @@
+---------- Test Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 2007 files !
+
+---------- Train Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 100 files !
+
+---------- Create Models ----------
+
+Kernel: ['sigmoid'] - C: [1, 100] - Gamma: [0.0001, 1]
+Time: 0:02:27.957010 - Size: 34.52 MB
+The model is 65.02242152466367% accurate !
+
+Kernel: ['linear'] - C: [1, 100] - Gamma: [0.0001, 1]
+Time: 0:02:30.631500 - Size: 38.12 MB
+The model is 81.16591928251121% accurate !
+
+Kernel: ['poly'] - C: [1, 100] - Gamma: [0.0001, 1]
+Time: 0:02:34.920963 - Size: 36.06 MB
+The model is 73.29347284504234% accurate !
+
+Kernel: ['rbf'] - C: [1, 100] - Gamma: [0.0001, 1]
+Time: 0:03:30.210567 - Size: 39.67 MB
+The model is 79.77080219232685% accurate !
+
+
+************************************************************************************************************************
+
+
+---------- Test Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 2007 files !
+
+---------- Train Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 100 files !
+
+---------- Create Models ----------
+
+0) Kernel: ['sigmoid'] - C: [1, 100] - Gamma: [0.0001, 0.1, 1]
+Time: 0:03:58.956649 - Size: 34.52 MB
+The model is 65.02242152466367% accurate !
+
+1) Kernel: ['linear'] - C: [1, 100] - Gamma: [0.0001, 0.1, 1]
+Time: 0:04:08.947814 - Size: 38.13 MB
+The model is 81.16591928251121% accurate !
+
+2) Kernel: ['poly'] - C: [1, 100] - Gamma: [0.0001, 0.1, 1]
+Time: 0:04:07.488978 - Size: 36.06 MB
+The model is 73.29347284504234% accurate !
+
+3) Kernel: ['rbf'] - C: [1, 100] - Gamma: [0.0001, 0.1, 1]
+Time: 0:04:59.731140 - Size: 39.67 MB
+The model is 79.77080219232685% accurate !
+
+
+************************************************************************************************************************
+
+
+---------- Test Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 2007 files !
+
+---------- Train Reading ----------
+
++ loading... category : 0
++ loading... category : 1
++ loading... category : 2
++ loading... category : 3
++ loading... category : 4
++ loading... category : 5
++ loading... category : 6
++ loading... category : 7
++ loading... category : 8
++ loading... category : 9
+
+ ++ All categories loaded: 100 files !
+
+---------- Create Models ----------
+
+0) Kernel: ['sigmoid'] - C: [1, 10, 100] - Gamma: [0.0001, 1]
+Time: 0:03:49.204654 - Size: 37.09 MB
+The model is 73.7419033383159% accurate !
+
+1) Kernel: ['linear'] - C: [1, 10, 100] - Gamma: [0.0001, 1]
+Time: 0:03:49.817480 - Size: 38.12 MB
+The model is 81.16591928251121% accurate !
+
+2) Kernel: ['poly'] - C: [1, 10, 100] - Gamma: [0.0001, 1]
+Time: 0:04:31.240810 - Size: 36.06 MB
+The model is 73.29347284504234% accurate !
+
+3) Kernel: ['rbf'] - C: [1, 10, 100] - Gamma: [0.0001, 1]
+Time: 0:04:22.841279 - Size: 39.67 MB
+The model is 79.77080219232685% accurate !
+
